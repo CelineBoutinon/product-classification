@@ -43,6 +43,6 @@ La documentation de l'API openfoodfacts.org est disponible sur https://openfoodf
 Voir requirements.txt pour la liste complète des librairies & packages.
   
 
-## MENTIONS LEGALES
+## MENTIONS LÉGALES
 
 Certaines analyses dans cette étude ont été produites par CelineBoutinon sur la base des données en libre-accès sur https://world.openfoodfacts.org/. Open Food Facts  ne donne aucune garantie quant à l’exactitude, l’exhaustivité ou l’adéquation à l’usage des données et ne sauraient être tenu responsable de toute utilisation ou dépendance à l’égard de ces données, ni des analyses ou conclusions qui en découlent. Open Food Facts n’endosse ni ne certifie aucune analyse, interprétation ou conclusion présentée ici, qui restent la responsabilité seule de l'auteure. Pour plus de détails, veuillez consulter les conditions d’utilisation sur https://world.openfoodfacts.org/code-of-conduct.
